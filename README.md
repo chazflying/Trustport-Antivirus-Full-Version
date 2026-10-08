@@ -246,4 +246,4 @@ This repository serves as the official landing page for TrustPort Antivirus. The
 **Get the most recent version of TrustPort Antivirus today!**
 
 ---
-**Last updated:** 2026-10-08 15:19:36 UTC
+**Last updated:** 2026-10-08 21:06:40 UTC
